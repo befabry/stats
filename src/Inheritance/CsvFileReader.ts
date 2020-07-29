@@ -1,3 +1,5 @@
+//For posterity - Not used
+
 import fs from "fs";
 
 export abstract class CsvFileReader<T> {
